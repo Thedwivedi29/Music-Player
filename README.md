@@ -77,16 +77,10 @@ This JavaScript code is for controlling a music player with a play/pause button 
 ### Change Song
 
 Replace the `source` element inside the `audio` tag with your own song file:
-```html
-<audio id="song">
-  <source src="path_to_your_song.mp3" type="audio/mpeg" />
-</audio>
-```
+
 ### Change Song Image
 Replace the src attribute of the img tag with your own image file:
-```html
-<img src="path_to_your_image.png" class="song-img" />
-```
+
 ### Update Icons
 This project uses FontAwesome for icons. You can replace the icons with any other icons from the FontAwesome library by changing the class attribute of the i tags.
 
