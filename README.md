@@ -123,5 +123,4 @@ This project uses FontAwesome for icons. You can replace the icons with any othe
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
 ### Acknowledgements
-**FontAwesome**
-**Boxicons**
+**FontAwesome & Boxicons**
