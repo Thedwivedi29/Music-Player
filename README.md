@@ -10,14 +10,6 @@ A visually appealing and functional music player built with HTML, CSS, and JavaS
 - **Progress Bar**: Displays and updates the current time of the song.
 - **Icon Integration**: Uses FontAwesome icons for controls and navigation.
 
-## Screenshots
-
-![Music Player Screenshot](path_to_screenshot)
-
-## Demo
-
-Check out the live demo [here](link_to_demo).
-
 ## Installation
 
 1. Clone the repository:
